@@ -1,0 +1,8 @@
+//comentario
+i a
+a = 2
+i b
+b = 5
+i c
+c = a * b
+p c
